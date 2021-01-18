@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Assembler_68k/Assembler_68k.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Assembler_68k/sandbox/Assembler_68k.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
